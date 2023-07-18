@@ -1,1 +1,2 @@
-# capstone-aws
+# Aws-Capstone-1
+AWS Mini Capstone
